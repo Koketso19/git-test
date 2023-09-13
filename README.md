@@ -1,2 +1,3 @@
 # git-test
-My first GitHub repo!
+testing for the odin project
+Hello odin! -usefulprogrammer.org
